@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8bd9fda477.pjlfc.cn/sitemap.xml
